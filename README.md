@@ -2,7 +2,7 @@
 
 你好，我是安然，一名倾向于后端开发的技术猿。期待能够通过代码搭建属于自己的空间，再次欢迎你光顾我的主页~
 
-- 🧑‍💻 码龄 1.5 年（如果算反复横跳，得有个4、5年啦）
+- 🧑‍💻 码龄 5 年，仍需前进
 - 🌱 努力学习新技术，拥抱未来和生活~
 - ⭐️ 个人网站：正在筹备啦~
 - 💻 Java项目：<a href="https://github.com/anran0422/Cloud" target="_blank">智能协同云图库</a>｜<a href="https://github.com/anran0422/SpringAI" target="_blank">AI Hub</a>｜<a href="https://github.com" target="_blank">一路同行</a>｜<a href="https://github.com/anran0422/center" target="_blank">用户中心</a>
